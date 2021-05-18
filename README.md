@@ -1,1 +1,1 @@
-Homework, labs, discussions and projects of CS61A course by UC Berkeley
+Homework, labs, discussions and projects of Fall2019 CS61A course from UC Berkeley
